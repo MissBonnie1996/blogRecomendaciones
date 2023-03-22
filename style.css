@@ -1,0 +1,14 @@
+.travel_mainDiv{
+    border: 1px solid green;
+}
+.travel_mainDiv img {
+    width: 100%;
+}
+.travel_mainDiv h5 , .travel_mainDiv p {
+    margin: 20px;
+}
+body{
+    color: black;
+    background-color: #EECAA6;
+    text-align: center;
+}
